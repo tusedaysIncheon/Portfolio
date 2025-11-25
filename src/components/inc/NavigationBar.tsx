@@ -1,6 +1,6 @@
 import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, navigationMenuTriggerStyle } from "../ui/navigation-menu";
 
-export function NevigationBar() {
+export function NavigationBar() {
 
 
     const scrollTo = (id: string) => {
