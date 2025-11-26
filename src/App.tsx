@@ -12,7 +12,7 @@ function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
       <Header />
-      <main className="scroll-smooth pt-20 bg-gray-50  dark:bg-black">
+      <main className="scroll-smooth bg-gray-50  dark:bg-black">
         <Hero />
         <About />
         <Projects />
