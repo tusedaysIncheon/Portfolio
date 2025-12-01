@@ -21,7 +21,7 @@ export function NavigationBar() {
 
   return (
     <NavigationMenu>
-      <NavigationMenuList className="flex-wrap">
+      <NavigationMenuList className="flex-wrap cursor-pointer">
         <NavigationMenuItem>
           <NavigationMenuLink
             className={navigationMenuTriggerStyle()}

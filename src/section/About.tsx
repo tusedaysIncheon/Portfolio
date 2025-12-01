@@ -5,7 +5,7 @@ export default function About() {
         <section id="about" className="pt-20 pb-20 w-full h-screen flex-col scroll-mt-14 text-center">
             <div className="max-w-7xl mx-auto px-6 mt-40">
                 <div>
-                    <h2 className="text-4xl md:text-5xl font-bold  md:mb-30 mb-20">About Me.</h2>
+                    <h2 className="text-4xl md:text-3xl font-bold  md:mb-30 mb-20">About Me.</h2>
                     <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-35">
                         {/* Image */}
                         <div className="w-80 h-80 md:w-85 md:h-85 shrink-0">
