@@ -59,7 +59,7 @@ const PROJECTS: Project[] = [
     {
     id: "Hetel Console Project",
     title: "Hetel Console Project",
-    oneLiner: "러닝 크루 커뮤니티",
+    oneLiner: "호텔 예약 서비스",
     description:
       "콘솔 기판 파일 입출력 프로그램. \n회원가입,로그인,로그아웃 관련 도메인을 맡아서 개발하였습니다.",
     tags: ["Java", "TXT"],
