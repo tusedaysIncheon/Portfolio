@@ -54,14 +54,6 @@ export function NavigationBar() {
             Projects
           </NavigationMenuLink>
         </NavigationMenuItem>
-        <NavigationMenuItem>
-          <NavigationMenuLink
-            className={navigationMenuTriggerStyle()}
-            onClick={() => scrollTo("contact")}
-          >
-            Contact
-          </NavigationMenuLink>
-        </NavigationMenuItem>
       </NavigationMenuList>
     </NavigationMenu>
   );

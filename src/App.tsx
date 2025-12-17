@@ -1,7 +1,6 @@
 import Header from "./components/inc/header";
 import { ThemeProvider } from "./components/theme-provider";
 import About from "./section/About";
-import Contact from "./section/Contact";
 import Hero from "./section/Hero";
 import Projects from "./section/Projects";
 import Skills from "./section/Skills";
@@ -15,7 +14,6 @@ function App() {
         <About />
         <Skills />
         <Projects />
-        <Contact />
       </main>
     </ThemeProvider>
   );
