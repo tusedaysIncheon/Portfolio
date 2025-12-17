@@ -34,7 +34,7 @@ function SkillItem({ icon, label }: { icon: string; label: string }) {
 
 export default function Skills() {
   return (
-    <section id="skills" className="mt-20 pb-20 scroll-mt-14">
+    <section id="skills" className="mt-20 pb-20 scroll-mt-24 md:scroll-mt-14">
       <div className="max-w-7xl mx-auto px-6">
         <div className="font-bold text-4xl text-center mb-20">Skills</div>
 
