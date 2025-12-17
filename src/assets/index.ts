@@ -1,0 +1,14 @@
+export { default as Github } from "./github.png";
+export { default as html } from "./html.svg";
+export { default as css } from "./css.png";
+export { default as js } from "./js.svg";
+export { default as react } from "./react.png";
+export { default as ts } from "./typescript.png";
+export { default as tailwind } from "./tailwind.png";
+export { default as java } from "./java.svg";
+export { default as springboot } from "./springboot.png";
+export { default as git } from "./git.svg";
+export { default as oracle } from "./oracle.png";
+export { default as postgres } from "./postgres.png";
+export { default as docker } from "./docker.png";
+export { default as k8s } from "./k8s.png";

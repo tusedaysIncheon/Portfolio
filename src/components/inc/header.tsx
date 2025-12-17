@@ -57,9 +57,6 @@ function Header() {
                 <DropdownMenuItem onClick={() => scrollTo("skills")}>
                   Skills
                 </DropdownMenuItem>
-                <DropdownMenuItem onClick={() => scrollTo("contact")}>
-                  Contact
-                </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>
           </div>
